@@ -7,3 +7,8 @@ Belajar kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
   * Perancangan kebutuhan aplikasi
   * Mengerti konsep dasar pemrograman
   
+21 Februari 2023
+Melanjutkan kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
+ * Modifikasi aplikasi perangkat lunak
+ * Dokumentasi pemrograman dan pengembangan aplikasi perangkat lunak
+ * Ujian Akhir
