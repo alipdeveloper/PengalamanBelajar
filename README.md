@@ -12,3 +12,9 @@ Melanjutkan kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
  * Modifikasi aplikasi perangkat lunak
  * Dokumentasi pemrograman dan pengembangan aplikasi perangkat lunak
  * Ujian Akhir
+**22 Februari 2023**
+Belajar Kelas Programming Logic 101
+ *Pendahuluan
+ *Gerbang Logika
+ *Pengenalan Dasar Computational Thinking 
+ *Penutup
